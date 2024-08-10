@@ -21,7 +21,7 @@ I'm a **Data Engineer** with a passion for building scalable data solutions. My 
 - **CI/CD Pipelines:** Automated deployment and orchestration using Docker, Kubernetes, Terraform
 - **Operating Systems:** Linux (Development and Troubleshooting)
 
----
+<!-- --- -->
 
 <!-- ## 💼 Projects -->
 
