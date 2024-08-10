@@ -39,18 +39,10 @@ Implemented a machine learning pipeline to predict equipment failures using hist
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/yourlinkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourtwitter/)](https://twitter.com/yourtwitter/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](www.linkedin.com/in/ramdascoudinya)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=github&logoColor=white&link=https://yourportfolio.com/)](https://yourportfolio.com/)
 
 ---
 
-_© 2024 Your Name. All rights reserved._
+_© 2024 Ramdas Coudinya. All rights reserved._
