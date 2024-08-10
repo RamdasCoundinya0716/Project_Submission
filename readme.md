@@ -8,17 +8,18 @@ I'm a **Data Engineer** with a passion for building scalable data solutions. My 
 - 💬 Ask me about: Data pipelines, big data, cloud platforms (Azure, AWS), and anything data-related!
 - 📫 How to reach me: 
         📧[ramdasvk4@gmail.com](mailto:ramdasvk4@gmail.com)
-            [www.linkedin.com/in/ramdascoudinya]
 - ⚡ Fun fact: I love working on data challenges and participating in hackathons.
 
 ---
 
 ## 🛠️ Skills
-- **Languages**: Python, SQL, Java
-- **Big Data Technologies**: Apache Kafka, Apache Spark, Hadoop
-- **Databases**: PostgreSQL, MySQL, MongoDB, AWS Redshift
-- **Cloud Platforms**: Azure, AWS, Google Cloud
-- **Tools**: Docker, Kubernetes, Git, Jenkins
+- **Programming Languages:** Python, SQL (SparkSQL), PySpark
+- **Data Engineering:** Event-Driven ETL Pipelines, Batch Processing, Data Migration, Multi-Source Ingestion
+- **Distributed Data Warehousing:** BigQuery, Azure Data Factory, Databricks, GCP
+- **Cloud Platforms:** Azure, GCP (Data Engineering focus)
+- **Tools and Frameworks:** Kafka, Airflow, Spark, Docker, Kubernetes, Terraform
+- **CI/CD Pipelines:** Automated deployment and orchestration using Docker, Kubernetes, Terraform
+- **Operating Systems:** Linux (Development and Troubleshooting)
 
 ---
 
