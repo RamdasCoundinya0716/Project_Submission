@@ -8,7 +8,7 @@ I'm a **Data Engineer** with a passion for building scalable data solutions. My 
 - 💬 Ask me about: Data pipelines, big data, cloud platforms (Azure, AWS), and anything data-related!
 - 📫 How to reach me: 
         📧[ramdasvk4@gmail.com](mailto:ramdasvk4@gmail.com)
-- ⚡ Fun fact: I love working on data challenges and participating in hackathons.
+- ⚡ Fun fact: I love working on data challenges.
 
 ---
 
@@ -25,7 +25,7 @@ I'm a **Data Engineer** with a passion for building scalable data solutions. My 
 
 ## 💼 Projects
 
-### [Project 1: Real-time Fraud Detection System](https://github.com/yourusername/project1)
+<!-- ### [Project 1: Real-time Fraud Detection System](https://github.com/yourusername/project1)
 Developed a real-time fraud detection system for online payment transactions using Apache Kafka, Apache Spark, and Azure Data Lake Storage. The system detects and prevents fraudulent transactions with high accuracy in near real-time.
 
 ### [Project 2: Data Warehouse for E-commerce Analytics](https://github.com/yourusername/project2)
@@ -35,7 +35,7 @@ Designed and implemented a data warehouse on AWS Redshift for an e-commerce comp
 Created an ETL pipeline to collect, transform, and load social media data into a data lake on Azure. The pipeline processes millions of records daily, allowing the company to gain insights into customer sentiment and engagement.
 
 ### [Project 4: Machine Learning Pipeline for Predictive Maintenance](https://github.com/yourusername/project4)
-Implemented a machine learning pipeline to predict equipment failures using historical sensor data. The pipeline is built on Apache Spark and deployed on AWS, enabling the client to reduce downtime and maintenance costs.
+Implemented a machine learning pipeline to predict equipment failures using historical sensor data. The pipeline is built on Apache Spark and deployed on AWS, enabling the client to reduce downtime and maintenance costs. -->
 
 ---
 
