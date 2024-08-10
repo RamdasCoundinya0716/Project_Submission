@@ -40,7 +40,7 @@ Implemented a machine learning pipeline to predict equipment failures using hist
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](www.linkedin.com/in/ramdascoudinya)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/ramdascoudinya)](www.linkedin.com/in/ramdascoudinya)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=github&logoColor=white&link=https://yourportfolio.com/)](https://yourportfolio.com/)
 
 ---
