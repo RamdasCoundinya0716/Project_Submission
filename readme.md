@@ -23,7 +23,7 @@ I'm a **Data Engineer** with a passion for building scalable data solutions. My 
 
 ---
 
-## 💼 Projects
+<!-- ## 💼 Projects -->
 
 <!-- ### [Project 1: Real-time Fraud Detection System](https://github.com/yourusername/project1)
 Developed a real-time fraud detection system for online payment transactions using Apache Kafka, Apache Spark, and Azure Data Lake Storage. The system detects and prevents fraudulent transactions with high accuracy in near real-time.
