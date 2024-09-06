@@ -1,48 +1,34 @@
-# Hi, I'm Ramdas! 👋
+# 👋 Hi, I'm Ramdas Coudinya!
 
-## 🚀 About Me
-I'm a **Data Engineer** with a passion for building scalable data solutions. My expertise lies in designing and implementing data pipelines, working with big data technologies, and developing real-time analytics platforms. I enjoy exploring new tools and technologies to solve complex data problems.
+## 🌟 About Me
+🔭 I’m currently working as a Cloud Data Engineer at Tredence Inc., focusing on scalable data solutions.
+🌱 I’m currently learning more about Kafka and its applications in real-time data processing.
+👯 I’m looking to collaborate on projects involving real-time data pipelines and machine learning.
+💬 Ask me about SQL, PySpark, ETL pipelines, and data governance.
+📫 How to reach me: [rcoundinya@gmail.com](mailto:rcoundinya@gmail.com)
+😄 Pronouns: He/Him
+⚡ Fun fact: I optimized a data processing workflow that reduced deployment times by 67%!
 
-- 👨‍💻 Full Time Data Engineer
-- 👯 I’m looking to collaborate on: Data engineering projects or open-source contributions.
-- 💬 Ask me about: Data pipelines, big data, cloud platforms (Azure, AWS), and anything data-related!
-- 📫 How to reach me: 
-        📧[ramdasvk4@gmail.com](mailto:ramdasvk4@gmail.com)
-- ⚡ Fun fact: I love working on data challenges.
+## 🚀 My Projects
+Here are some of the projects I've worked on. Feel free to check them out and star them if you like what you see!
 
----
+### 📊 Scalable Cloud-Based Data Pipeline for YouTube Analytics
+[GitHub Repo](https://github.com/RamdasCoundinya0716/dataengineering-youtube-analysis-project.git)  
+**Technologies Used:** AWS S3, Glue, Lambda, QuickSight  
+**Description:** Developed a scalable, cloud-based data pipeline to ingest, transform, and store YouTube data for real-time analysis. Enabled insights into trending video metrics across different regions.  
 
-## 🛠️ Skills
-- **Programming Languages:** Python, SQL (SparkSQL), PySpark
-- **Data Engineering:** Event-Driven ETL Pipelines, Batch Processing, Data Migration, Multi-Source Ingestion
-- **Distributed Data Warehousing:** BigQuery, Azure Data Factory, Databricks, GCP
-- **Cloud Platforms:** Azure, GCP (Data Engineering focus)
-- **Tools and Frameworks:** Kafka, Airflow, Spark, Docker, Kubernetes, Terraform
-- **CI/CD Pipelines:** Automated deployment and orchestration using Docker, Kubernetes, Terraform
-- **Operating Systems:** Linux (Development and Troubleshooting)
+### 🌐 Stock Market Kafka Real-Time Data Engineering Project
+[GitHub Repo](https://github.com/RamdasCoundinya0716/realtimedataanalysis.git)  
+**Technologies Used:** Apache Kafka, AWS S3, Glue, Athena, EC2  
+**Description:** Built an end-to-end real-time data pipeline for ingesting and processing live stock market data. This solution enables real-time data analysis and secure storage, with EC2 used for Kafka management and Python for scripting.
 
-<!-- --- -->
+## 📚 My Articles
+- Coming soon!
 
-<!-- ## 💼 Projects -->
+## 🏆 Achievements
+- Improved data processing efficiency by 25% at my current role.
+- Automated infrastructure provisioning, reducing deployment time significantly.
 
-<!-- ### [Project 1: Real-time Fraud Detection System](https://github.com/yourusername/project1)
-Developed a real-time fraud detection system for online payment transactions using Apache Kafka, Apache Spark, and Azure Data Lake Storage. The system detects and prevents fraudulent transactions with high accuracy in near real-time.
-
-### [Project 2: Data Warehouse for E-commerce Analytics](https://github.com/yourusername/project2)
-Designed and implemented a data warehouse on AWS Redshift for an e-commerce company to analyze sales, customer behavior, and product performance. This solution enabled the business to make data-driven decisions and improve marketing strategies.
-
-### [Project 3: ETL Pipeline for Social Media Data](https://github.com/yourusername/project3)
-Created an ETL pipeline to collect, transform, and load social media data into a data lake on Azure. The pipeline processes millions of records daily, allowing the company to gain insights into customer sentiment and engagement.
-
-### [Project 4: Machine Learning Pipeline for Predictive Maintenance](https://github.com/yourusername/project4)
-Implemented a machine learning pipeline to predict equipment failures using historical sensor data. The pipeline is built on Apache Spark and deployed on AWS, enabling the client to reduce downtime and maintenance costs. -->
-
----
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ramdascoudinya/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=github&logoColor=white&link=https://yourportfolio.com/)](https://yourportfolio.com/)
-
----
-
-_© 2024 Ramdas Coudinya. All rights reserved._
+## 🤝 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ramdascoudinya)
+- [GitHub](https://github.com/RamdasCoundinya0716)
