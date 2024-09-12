@@ -5,7 +5,7 @@
 🌱 I’m currently learning more about Kafka and its applications in real-time data processing.
 👯 I’m looking to collaborate on projects involving real-time data pipelines and machine learning.
 💬 Ask me about SQL, PySpark, ETL pipelines, and data governance.
-📫 How to reach me: [rcoundinya@gmail.com](mailto:rcoundinya@gmail.com)
+📫 How to reach me: [rcoundinya@gmail.com](mailto:ramdasvk4@gmail.com)
 😄 Pronouns: He/Him
 ⚡ Fun fact: I optimized a data processing workflow that reduced deployment times by 67%!
 
